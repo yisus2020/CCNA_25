@@ -1,1 +1,3 @@
-
+#rename
+config t
+hostname R1
