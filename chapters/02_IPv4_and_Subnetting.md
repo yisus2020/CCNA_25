@@ -1,5 +1,7 @@
 # 02. IPv4 addressing and subnetting
 
+> Document version: 1.0 | Updated: 2026-11-12 | Targets: Cisco IOS XE 17.x; exam blueprint CCNA 200-301
+
 Exam domain 1 and 3 (Network Fundamentals, IP Connectivity). Everything about IPv4 addressing, subnet maths, VLSM, host configuration and the addressing troubleshooting that goes with it.
 
 ## 1. Address basics

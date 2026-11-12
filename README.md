@@ -4,6 +4,8 @@ Cisco CCNA 200-301 study guide: **commands and troubleshooting for every chapter
 
 Each chapter has: concepts, configuration commands, verification commands, a troubleshooting table and a small lab.
 
+**Version:** 1.0.0 (2026-11-12) | **Targets:** Cisco IOS XE 17.x; exam blueprint CCNA 200-301 | [Changelog](CHANGELOG.md)
+
 ## Chapters
 
 | # | Chapter | Exam domain |
@@ -20,3 +22,12 @@ Planned: wireless and virtualization/cloud, Network Access (VLANs, trunking, Eth
 - [`BASIC_COMMAND/SWITCH`](BASIC_COMMAND/SWITCH)
 
 Commands in this repo are for lab use. Anything marked with a warning (for example `erase`, `reload`, `clear`) is disruptive on a production device.
+
+## Related repositories
+
+| Repo | Content |
+|---|---|
+| [Cisco](https://github.com/yisus2020/Cisco) | CCNA labs for IOS XE and NX-OS, initial and advanced, with automation |
+| [Huawei](https://github.com/yisus2020/Huawei) | Huawei VRP guide (HCIA-Datacom path) by chapter |
+| [FortiGate](https://github.com/yisus2020/FortiGate) | FortiGate practical guide: SD-WAN, VPN, policies, troubleshooting |
+| [Junos](https://github.com/yisus2020/Junos) | Junos labs for EX/QFX/MX and SRX, with PyEZ automation |

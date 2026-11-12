@@ -1,5 +1,7 @@
 # 00. Cisco IOS basics (start here)
 
+> Document version: 1.0 | Updated: 2026-11-12 | Targets: Cisco IOS XE 17.x; exam blueprint CCNA 200-301
+
 Zero-to-working CLI knowledge. Everything in later chapters assumes you are comfortable with this one.
 Commands are shown for IOS / IOS-XE routers and switches. `R1#` and `SW1#` are the prompts; you type what comes after.
 

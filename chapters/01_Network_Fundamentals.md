@@ -1,5 +1,7 @@
 # 01. Network fundamentals: models, media, interfaces and the troubleshooting method
 
+> Document version: 1.0 | Updated: 2026-11-12 | Targets: Cisco IOS XE 17.x; exam blueprint CCNA 200-301
+
 Exam domain 1 (Network Fundamentals). This chapter covers the models, components, cabling, interface/Ethernet behaviour and the generic troubleshooting method. IP addressing is in chapters 02 and 03.
 
 ## 1. Reference models
